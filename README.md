@@ -1,1 +1,1 @@
-# face_detection-app
+# face-recognition
